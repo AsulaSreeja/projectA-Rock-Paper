@@ -1,4 +1,4 @@
-Rock, paper, scissors python game
+#Rock, paper, scissors python game
 
 import random
 choices = ["Rock", "Paper", "Scissors"] computer = random.choice(choices) player = False
